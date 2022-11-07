@@ -11,12 +11,6 @@ body {
   margin: 0;
   box-sizing: border-box;
   min-height: 100vh;
-  display: grid;
-  grid-template-area;
-  'header header header'
-  'nav nav nav'
-  'main img_card_container'
-  'footer footer footer'
 }
 
 .header {
